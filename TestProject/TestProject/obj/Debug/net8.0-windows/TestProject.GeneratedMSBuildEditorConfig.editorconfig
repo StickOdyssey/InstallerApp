@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestProject
-build_property.ProjectDir = C:\Users\OdysseyDev\source\repos\TestProject\TestProject\
+build_property.ProjectDir = C:\Users\OdysseyDev\source\repos\Install Tool\TestProject\TestProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

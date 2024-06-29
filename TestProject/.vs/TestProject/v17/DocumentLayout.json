@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA2F7E-04A3-449E-84F3-210657C0909C}|TestProject\\TestProject.csproj|c:\\users\\odysseydev\\source\\repos\\install tool\\testproject\\testproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFA2F7E-04A3-449E-84F3-210657C0909C}|TestProject\\TestProject.csproj|solutionrelative:testproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA2F7E-04A3-449E-84F3-210657C0909C}|TestProject\\TestProject.csproj|c:\\users\\odysseydev\\source\\repos\\install tool\\testproject\\testproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DFA2F7E-04A3-449E-84F3-210657C0909C}|TestProject\\TestProject.csproj|solutionrelative:testproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA2F7E-04A3-449E-84F3-210657C0909C}|TestProject\\TestProject.csproj|c:\\users\\odysseydev\\source\\repos\\install tool\\testproject\\testproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFA2F7E-04A3-449E-84F3-210657C0909C}|TestProject\\TestProject.csproj|solutionrelative:testproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFA2F7E-04A3-449E-84F3-210657C0909C}|TestProject\\TestProject.csproj|c:\\users\\odysseydev\\source\\repos\\install tool\\testproject\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DFA2F7E-04A3-449E-84F3-210657C0909C}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\TestProject\\Form1.cs",
+              "RelativeDocumentMoniker": "TestProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\TestProject\\Form1.cs",
+              "RelativeToolTip": "TestProject\\Form1.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:19:59.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\TestProject\\Form1.cs",
+              "RelativeDocumentMoniker": "TestProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\TestProject\\Form1.cs [Design]",
+              "RelativeToolTip": "TestProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:18:38.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\TestProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TestProject\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\TestProject\\Form1.Designer.cs",
+              "RelativeToolTip": "TestProject\\Form1.Designer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T04:19:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestProject",
+              "DocumentMoniker": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
+              "ToolTip": "C:\\Users\\OdysseyDev\\source\\repos\\Install Tool\\TestProject\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject\\TestProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T04:18:34.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
